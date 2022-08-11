@@ -14,7 +14,7 @@ This is just for fun to compare various NBA players.
 
 Manually pulled some data for a few prominent players from basketball reference. Link in notebook + shown on charts.
 
-![playoffs](./images/playoffs_winshares.png)
+![playoffs](./images/playoffs_winshares.PNG)
 ![regular season](./images/ppg_winshares.png)
 
 'Playoffs career PPG vs. Win Shares per 48' and 'regular season career PPG vs. Win Shares per 48'.
